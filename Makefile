@@ -1,5 +1,5 @@
 PKG_NAME := intervaltree
-URL = https://files.pythonhosted.org/packages/e8/f9/76237755b2020cd74549e98667210b2dd54d3fb17c6f4a62631e61d31225/intervaltree-3.0.2.tar.gz
+URL = https://files.pythonhosted.org/packages/50/fb/396d568039d21344639db96d940d40eb62befe704ef849b27949ded5c3bb/intervaltree-3.1.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
